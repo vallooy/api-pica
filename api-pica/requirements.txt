@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-fiona
-shapely
-pandas
-geopy
-cpmpy
