@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from api.algo_pica_cpmpy import Pica
+from algo_pica_cpmpy import Pica
 from pathlib import Path
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
