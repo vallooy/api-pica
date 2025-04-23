@@ -12,7 +12,9 @@ class Parcours(BaseModel):
 app = FastAPI()
 
 origins = [
-    "http://localhost",
+    "http://localhost:8080",
+    "http://localhost:4200",
+    "https://api-pica.onrender.com/"
 ]
 
 app.add_middleware(
