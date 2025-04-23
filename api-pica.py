@@ -14,7 +14,9 @@ app = FastAPI()
 origins = [
     "http://localhost:8080",
     "http://localhost:4200",
-    "https://api-pica.onrender.com/"
+    "https://api-pica.onrender.com/",
+    "https://agrotic.org/",
+    "https://lemasnumerique.agrotic.org/",
 ]
 
 app.add_middleware(
