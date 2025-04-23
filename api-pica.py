@@ -16,7 +16,8 @@ origins = [
     "http://localhost:4200",
     "https://api-pica.onrender.com/",
     "https://agrotic.org/",
-    "https://lemasnumerique.agrotic.org/",
+    "https://lemasnumerique.agrotic.org/",    
+    "https://lemasnumerique.agrotic.org/Pica/",
 ]
 
 app.add_middleware(
