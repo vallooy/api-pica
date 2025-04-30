@@ -18,6 +18,8 @@ origins = [
     "https://agrotic.org/",
     "http://lemasnumerique.agrotic.org",    
     "http://lemasnumerique.agrotic.org/Pica/",
+    "https://lemasnumerique.agrotic.org",    
+    "https://lemasnumerique.agrotic.org/Pica/",
 ]
 
 app.add_middleware(
